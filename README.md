@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NGOconnect**
 
-- 📝 I regularly write articles on [https://yourtechblogger.hashnode.dev/](https://yourtechblogger.hashnode.dev/)
+- 📝 I regularly write articles on [[https://yourtechblogger.hashnode.dev/]](https://hashnode.com/@NidhiNayak)
 
 - 💬 Ask me about **MERN, python, SQL**
 
