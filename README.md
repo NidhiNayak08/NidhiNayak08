@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhinayak08" alt="nidhinayak08" /></a> </p>
 
-- 🔭 I’m currently working on **NGOconnect**
+- 🔭 I’m currently working on **Diversity App**
 
 - 📝 I regularly write articles on [[https://yourtechblogger.hashnode.dev/]](https://hashnode.com/@NidhiNayak)
 
