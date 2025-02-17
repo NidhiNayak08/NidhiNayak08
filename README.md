@@ -77,24 +77,14 @@
 
 ---
 
-## 📊 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinayak08&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
 
 ## 📢 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nidhinayak/" target="_blank">
+  <a href="https://www.linkedin.com/in/nidhisnayak/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.twitter.com/nidhinayak08" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.leetcode.com/user7486t/" target="_blank">
+  <a href="https://leetcode.com/u/nidhinayak08/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode"/>
   </a>
 </p>
@@ -103,9 +93,8 @@
 
 ## 📝 Articles
 
-- [How AI is Transforming Full-Stack Development](https://yourtechblogger.hashnode.dev/how-ai-is-transforming-full-stack-development)
-- [Exploring Python in Data Science](https://yourtechblogger.hashnode.dev/exploring-python-in-data-science)
-- [React.js vs. Angular: Which One to Choose?](https://yourtechblogger.hashnode.dev/reactjs-vs-angular-which-one-to-choose)
+- [DevOps : Bridging Development and Operations](https://questit-editorial.hashnode.dev/devops-bridging-development-and-operations)
+- [Smart Agents in Games and Reality] (https://questit-editorial.hashnode.dev/devops-bridging-development-and-operations)
 
 ---
 
