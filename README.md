@@ -94,7 +94,7 @@
 ## 📝 Articles
 
 - [DevOps : Bridging Development and Operations](https://questit-editorial.hashnode.dev/devops-bridging-development-and-operations)
-- [Smart Agents in Games and Reality] (https://questit-editorial.hashnode.dev/devops-bridging-development-and-operations)
+- [Smart Agents in Games and Reality](https://questit-editorial.hashnode.dev/devops-bridging-development-and-operations)
 
 ---
 
